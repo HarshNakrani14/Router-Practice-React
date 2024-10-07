@@ -10,7 +10,7 @@ import PageNotFound from './Components/PageNotFound'
 const router = createBrowserRouter(
   [
     {
-      path: "/",
+      path: "/React-Router-Practice",
       element: <div>
           <Navbar />
           <Home />
